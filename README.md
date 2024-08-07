@@ -1,6 +1,6 @@
-# graph-traversal
+# Graph traversal with clojure
 
-FIXME: description
+This repo contains all answers for a programming challenge. Refer to this [link](https://bitbucket.org/audiencerepublic/developer-test/wiki/clojure-2) for problem description.
 
 ## Installation
 
